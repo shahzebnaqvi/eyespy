@@ -13,10 +13,10 @@ class VidScreen extends StatelessWidget {
             },
             child: Icon(Icons.arrow_back_ios)),
         actions: [
-          SizedBox(
-            width: 20,
-          ),
-          Icon(Icons.share),
+          // SizedBox(
+          //   width: 20,
+          // ),
+          // Icon(Icons.share),
           SizedBox(
             width: 20,
           ),
