@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270550189233",
+    "project_id": "eyespy-ef8e0",
+    "storage_bucket": "eyespy-ef8e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270550189233:android:e6156dd58d1716045a0e90",
+        "android_client_info": {
+          "package_name": "com.example.eyespy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270550189233-js4qsgeni1lrk8dd7n4g00ahtu5uk4lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobecy3FmD8jArisDkS45gSilDhnda6Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270550189233-js4qsgeni1lrk8dd7n4g00ahtu5uk4lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
